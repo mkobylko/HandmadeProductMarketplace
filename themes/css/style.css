@@ -1,0 +1,202 @@
+body{
+    background-color: #F8F8F8;
+}
+
+hr {
+    border-top: 1px solid #8c8b8b;
+}
+
+.modal-dialog {
+    width: 20%;
+}
+
+.modal-content {
+    background-color: rgb(167, 142, 123);
+}
+
+.handmade {
+    color: rgb(20, 54, 123);
+}
+
+.btn-add {
+    background-color: rgb(20, 54, 123);
+    opacity: 1;
+    transition: 0.3s all;
+    color: white;
+}
+
+.btn-act {
+    background-color: rgb(167, 142, 123);
+    opacity: 1;
+    transition: 0.3s all;
+    color: white;
+
+}
+
+.txt {
+    color: rgb(20, 54, 123);
+    font-weight: 600;
+
+}
+
+
+
+
+/*button buy product page*/
+.btn-buyProduct {
+    width: 30%;
+    height: 10%;
+}
+
+
+/*stars*/
+.checked {
+    color: orange;
+}
+
+.fa {
+    font-size: 20px;
+}
+
+/*page product (for )*/
+.productBuy select {
+    display: block;
+    padding: 5px 10px;
+
+}
+
+.productBuy input {
+    width: 50px;
+    height: 40px;
+    padding-left: 10px;
+    font-size: 16px;
+    margin-right: 10px;
+    border: 1px solid;
+}
+
+.productBuy input:focus {
+    outline: none;
+}
+
+/* announcementSale btn*/
+.btn-an-sale {
+    width: 130%;
+}
+
+/* announcementSale */
+.photoProduct {
+    width: 40%;
+    height: 30%;
+    margin-top: 7%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+
+.imgSales, .photoProductP, .reviews {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* mySales*/
+.imgSales {
+    width: 40%;
+    height: 5%;
+    margin-top: 0%;
+
+}
+
+/*myPurchases & shoppingBag & mySales*/
+.photoProductP {
+    width: 30%;
+    height: 20%;
+    margin-top: 0%;
+
+
+}
+
+.reviews {
+    width: 60%;
+    height: 4%;
+    margin-top: 30%;
+
+}
+
+
+/*reviews*/
+.link {
+    text-decoration: none;
+    color: black;
+
+}
+
+/*account (for button)*/
+.bottom-center {
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.btn-ac {
+    height: 38px;
+    width: 280px;
+}
+
+.log {
+
+    width: 30%;
+    margin-left: 37%;
+}
+
+.imgProducts {
+    overflow: hidden;
+    width: 350px;
+}
+
+.imgProducts .imgMar {
+    float: left;
+
+}
+
+.imgProducts img {
+    width: 305px;
+    height: 305px;
+    object-fit: cover;
+}
+
+.card-products {
+    width: 19rem;
+    margin-bottom: 5%;
+
+}
+
+.card-text-products {
+    height: 70px;
+}
+
+.product-info {
+    margin-left: 13%;
+}
+
+/*my sale - text ab status*/
+.textThatTrue {
+    text-align: center;
+    position: absolute;
+    bottom: 9%;
+    left: 73%;
+    font-weight: bolder;
+    color: #018749;
+
+}
+
+.photoUpdate {
+    width: 160px;
+    height: 160px;
+}
+
+.deactiv {
+    background-color: #8c8b8b;
+    width: 130%;
+    height: 10%;
+}
